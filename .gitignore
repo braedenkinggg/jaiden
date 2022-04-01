@@ -1,0 +1,11 @@
+# pycache
+__pycache__/
+
+# Virtual Environment
+venv/
+
+# Models
+models/
+
+# Data
+data/
